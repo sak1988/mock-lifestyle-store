@@ -1,14 +1,1 @@
-export const metadata = {
-  title: "Lifestyle Outlet – Mock Store",
-  description: "Persona vs Feature framed mock shopping site for research.",
-};
-
-import "./../styles/globals.css";
-
-export default function RootLayout({ children }) {
-  return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
-  );
-}
+export const metadata={title:'Lifestyle Outlet – Mock Store',description:'Persona vs Feature framed mock shopping site for research.'};import './../styles/globals.css';export default function RootLayout({children}){return(<html lang='en'><body>{children}</body></html>);}

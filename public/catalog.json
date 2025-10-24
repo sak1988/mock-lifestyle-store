@@ -1,0 +1,94 @@
+[
+  {
+    "id": "pegasus",
+    "brand": "Zoom",
+    "name": "Air Pegasus",
+    "price": 119.99,
+    "rating": 4.6,
+    "reviews": 842,
+    "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For light lifters and easy stretchers who want comfort without the bulk.",
+    "featureText": "Breathable mesh, cushioned Zoom pods, lightweight upper; everyday trainer.",
+    "tags": [
+      "Footwear",
+      "Running",
+      "Lifestyle"
+    ]
+  },
+  {
+    "id": "ultraboost23",
+    "brand": "Ultraboost",
+    "name": "23 Knit",
+    "price": 139.0,
+    "rating": 4.7,
+    "reviews": 1292,
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For casual movers who like staying active\u2014minus the grind.",
+    "featureText": "Boost midsole for energy return; knit upper adapts to foot shape.",
+    "tags": [
+      "Footwear",
+      "Running",
+      "Walking"
+    ]
+  },
+  {
+    "id": "1080v13",
+    "brand": "Fresh Foam X",
+    "name": "1080v13",
+    "price": 149.5,
+    "rating": 4.5,
+    "reviews": 564,
+    "img": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For de-stress miles after long days.",
+    "featureText": "Fresh Foam X cushioning; rocker geometry for smooth transitions.",
+    "tags": [
+      "Footwear",
+      "Running"
+    ]
+  },
+  {
+    "id": "studio-hoodie",
+    "brand": "Luma",
+    "name": "Studio Hoodie",
+    "price": 69.0,
+    "rating": 4.4,
+    "reviews": 310,
+    "img": "https://images.unsplash.com/photo-1520975851084-9bb318bf0f37?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For cool-down coffee runs and cozy commutes.",
+    "featureText": "Midweight fleece, brushed interior; zipper pockets for essentials.",
+    "tags": [
+      "Apparel",
+      "Hoodies"
+    ]
+  },
+  {
+    "id": "studio-jogger",
+    "brand": "Luma",
+    "name": "Studio Jogger",
+    "price": 59.0,
+    "rating": 4.3,
+    "reviews": 201,
+    "img": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For lazy-morning walks that still get your steps in.",
+    "featureText": "4-way stretch jersey; drawcord waistband; ankle cuff.",
+    "tags": [
+      "Apparel",
+      "Joggers"
+    ]
+  },
+  {
+    "id": "balance-mat",
+    "brand": "Yun",
+    "name": "Balance Mat Pro",
+    "price": 39.0,
+    "rating": 4.8,
+    "reviews": 982,
+    "img": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1200&auto=format&fit=crop",
+    "personaText": "For reset sessions when you need a mental breather.",
+    "featureText": "Non-slip TPE, 6mm cushioning; odor-resistant coating.",
+    "tags": [
+      "Yoga",
+      "Accessories"
+    ]
+  }
+]
